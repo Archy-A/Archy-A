@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/artur-avtukhov/" target="_blank">Artur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Junior Front-end / Back-end developer</h3>
+<h3 align="left"> Front-end / Back-end developer</h3>
 
 > Stack: <br>
 >
